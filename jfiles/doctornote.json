@@ -1,0 +1,17 @@
+[
+    {
+        "patient": "P001",
+        "date": "2024-10-05",
+        "note": "Patient reports mild headache and fatigue. Advised to increase water intake and rest."
+    },
+    {
+        "patient": "P002",
+        "date": "2024-10-06",
+        "note": "Patient complains of persistent cough. Prescribed cough syrup and advised to monitor symptoms."
+    },
+    {
+        "patient": "P003",
+        "date": "2024-10-07",
+        "note": "Patient with recurring joint pain in knees and elbows. Suggested physical therapy exercises."
+    }
+]

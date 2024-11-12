@@ -1,0 +1,26 @@
+[
+    {
+        "patient": "P001",
+        "date": "2024-10-01",
+        "blood_pressure": "120/80",
+        "temperature": 36.5,
+        "respiratory_rate": 18,
+        "pulse_rate": 75
+    },
+    {
+        "patient": "P002",
+        "date": "2024-10-02",
+        "blood_pressure": "130/85",
+        "temperature": 37.0,
+        "respiratory_rate": 20,
+        "pulse_rate": 80
+    },
+    {
+        "patient": "P003",
+        "date": "2024-10-03",
+        "blood_pressure": "140/90",
+        "temperature": 37.5,
+        "respiratory_rate": 22,
+        "pulse_rate": 85
+    }
+]
